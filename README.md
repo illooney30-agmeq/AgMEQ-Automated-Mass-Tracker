@@ -1,4 +1,5 @@
 # AgMEQ Automated Mass Tracker
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23109458.svg)](https://doi.org/10.5281/zenodo.23109458)
 
 A low-cost system that logs the mass of plant samples every 15 minutes, built from a Raspberry Pi and a laboratory precision balance. It was used to track how quickly dried maize stalks gain moisture in a humidity-controlled conditioning chamber and how quickly they lose it once they return to ambient laboratory conditions. In practice, that tells you two things: how long samples need to be conditioned before testing, and how long you have to test them once they leave the chamber.
 
