@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "AgMEQ Automated Mass Tracker"
+abstract: >-
+  A low-cost Raspberry Pi system that logs the mass of a RADWAG WTC 2000
+  balance every 15 minutes, used to track moisture uptake and loss of dried
+  maize stalks during conditioning.
+type: software
+authors:
+  - family-names: Looney
+    given-names: Isaac
+    affiliation: "Department of Mechanical Engineering, University of Idaho"
+    email: loon1344@vandals.uidaho.edu
+  - family-names: Robertson
+    given-names: Daniel J.
+    affiliation: "Department of Mechanical Engineering, University of Idaho"
+    email: danieljr@uidaho.edu
+repository-code: "https://github.com/illooney30-agmeq/AgMEQ-Automated-Mass-Tracker"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-02"
+keywords:
+  - maize
+  - stalk lodging
+  - moisture content
+  - sample conditioning
+  - Raspberry Pi
+  - automated mass logging
